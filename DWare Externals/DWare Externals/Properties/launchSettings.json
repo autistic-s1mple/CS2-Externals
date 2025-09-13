@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FurryWare": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
